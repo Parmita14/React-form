@@ -31,7 +31,7 @@ function App() {
       type="text"
       name="firstName"
       id="firstName"
-      placeholder="Love"
+      placeholder="Parmita"
       value={formData.firstName}
       onChange={changeHandler}
       className="outline"
@@ -44,7 +44,7 @@ function App() {
       type="text"
       name="lastName"
       id="lastName"
-      placeholder="Babbar"
+      placeholder="Upadhyay"
       value={formData.lastName}
       onChange={changeHandler}
       className="outline"
@@ -57,7 +57,7 @@ function App() {
       type="email"
       name="email"
       id="email"
-      placeholder="love@abcd.com"
+      placeholder="xyz@abcd.com"
       value={formData.email}
       onChange={changeHandler}
       className="outline"
@@ -113,7 +113,7 @@ function App() {
       type="text"
       name="state"
       id="state"
-      placeholder="Bihar"
+      placeholder="kerala"
       value={formData.state}
       onChange={changeHandler}
       className="outline"
